@@ -1,1 +1,1 @@
-# Random Compilation of syntax
+# Random compilation of syntaxes. Fin.
