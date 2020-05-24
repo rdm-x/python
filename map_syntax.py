@@ -15,3 +15,7 @@ print(square(n))
 # or
 
 print(list(map(lambda x:x**2,n)))
+
+# list comprehension solution 
+
+print([x**2 for x in n])
