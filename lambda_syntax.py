@@ -1,4 +1,4 @@
-# Lamda funtion to multiply a given number with 2
+# Lamda funtion to multiply two given numbers
 
 def multiply(x,y):
     return x*y
