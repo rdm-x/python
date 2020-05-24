@@ -1,4 +1,4 @@
-
+# -----------------------------------------------------------------------------
 
 # filter -> filters items out of a sequence and returns a filtered list
 
@@ -12,6 +12,6 @@ print(fltr(n))
 
 print(list(filter(lambda x:x>2,n)))
 
-
+# list comprehension solution 
 
 print([x for x in n if x>2])
