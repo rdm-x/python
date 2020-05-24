@@ -1,7 +1,9 @@
 # -----------------------------------------------------------------------------
 
 # reduce -> applies same operation to items of a sequence 
-# uses result of operation as first parameter of next operation and returns an item not a list
+# uses result of operation as first parameter of next operation
+# returns an item not a list
+
 
 n = [1, 2, 3, 4]
 
