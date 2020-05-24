@@ -1,2 +1,1 @@
-# python
-# Random compilation of syantax
+# Random Compilation of syntax
