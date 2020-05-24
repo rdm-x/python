@@ -3,13 +3,15 @@
 # reduce -> applies same operation to items of a sequence 
 # uses result of operation as first parameter of next operation and returns an item not a list
 
-n=[1,2,3,4]
+n = [1, 2, 3, 4]
+
 
 def mult(lst):
-    prod=lst[0]
-    for i in range(1,len(lst)):
-        prod*=lst[i]
+    prod = lst[0]
+    for i in range(1, len(lst)):
+        prod *= lst[i]
     return prod
+
 
 print(mult(n))
 
@@ -19,6 +21,6 @@ print(mult(n))
 # 6*4 = 24
 
 
-# or 
+# or
 
-print(reduce(lambda x,y:x*y,n))
+print(reduce(lambda x, y: x*y, n))
