@@ -1,0 +1,2 @@
+python -c "import os, sys; print(os.path.dirname(sys.executable))"
+# run this in cmd to find python installation direcotry
