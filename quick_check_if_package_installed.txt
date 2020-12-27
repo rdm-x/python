@@ -1,0 +1,2 @@
+# Run this in command promt / powershell
+python -c 'import [package name], [package name]'
